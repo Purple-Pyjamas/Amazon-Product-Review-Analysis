@@ -1,2 +1,4 @@
-# Amazon-Product-Review-Analysis
+:Box: # Amazon-Product-Review-Analysis
 Unravelling price patterns of different variables across over a thousand Amazon products using excel, to help generate insights that can guide product improvement and marketing strategies, and enhance customer engagement
+
+## 
